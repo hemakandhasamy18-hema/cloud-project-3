@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CloudWait AI
 
 A cloud-based queue intelligence dashboard for predicting student waiting times in real time.
@@ -50,3 +51,6 @@ public/
 
 ## Notes
 This repository includes a working UI prototype and queue simulation aligned with the CloudWait AI concept described in the project brief.
+=======
+# cloud-project-3
+>>>>>>> 99945570db6e3413677f3411bbf95e9b3f6ea1e6
